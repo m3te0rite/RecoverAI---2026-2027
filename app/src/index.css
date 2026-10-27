@@ -1,0 +1,4 @@
+/* RecoverAI — index.css: minimal reset, no Vite defaults */
+*, *::before, *::after { box-sizing: border-box; }
+body { margin: 0; }
+#root { display: contents; }
